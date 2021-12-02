@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Crypto realted stuffs
-- 📫 How to reach me: selva221724@gmail.com
+- 🌱 I’m currently learning BlockChain
+- 👯 I’m looking to collaborate on any BlockChain technology
+- 📫 How to reach me: [email](selva221724@gmail.com) , [twitter](https://twitter.com/selva221724) , [LinkedIn](https://twitter.com/selva221724)
+- ⚡ Fun fact: I am a noob cinematographer [YouTube](https://www.youtube.com/channel/UC1kjWTXAijb0koxCCJMIIFA) 
