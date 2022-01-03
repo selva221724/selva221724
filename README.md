@@ -2,17 +2,14 @@
 <a href="https://twitter.com/selva221724">
   <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://open.spotify.com/show/5sszhretPLEsGrZmKJ9PwH">
+  <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 <a href="https://www.linkedin.com/in/selva221724/">
   <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://medium.com/@selva221724">
   <img align="right" width="100px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" />
-</a>
-<a href="https://open.spotify.com/show/5sszhretPLEsGrZmKJ9PwH">
-  <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UC1kjWTXAijb0koxCCJMIIFA">
-  <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10383650/tamil-selvan">
   <img align="right" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" />
