@@ -21,8 +21,6 @@
 ### Hey there Tamil Selvan here!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-The concept of ‘Time’ is a powerful inspiration to me because of two people, one who likes time and other who doesn’t like time to run out namely Stephen Hawking and Thomas Alva Edison. 
-
 - 💻 I do have multiple names like AI/ML Engineer, Data Scientist and Python Developer.
 - 🧑🏼‍💻 Data Science & Artificial Intelligence is my core subject areas where I face them every single day in my career. 
 - 🎓 Got a Masters from the United Kingdom in Robotics & Automation and One more Masters in Electronics and a Bachelors in Physics. 
@@ -33,7 +31,7 @@ The concept of ‘Time’ is a powerful inspiration to me because of two people,
 - ⚡ Fun fact: I am a noob cinematographer [YouTube](https://www.youtube.com/channel/UC1kjWTXAijb0koxCCJMIIFA) 
 - 📫 Mail me: [email](selva221724@gmail.com)
 
-No worries, No buddy born with king abilities... the toughest time can only make you a king!!! No ideal is born without 100 ideals. Understand the value of people near you !!
+No worries, No buddy born with king abilities!! The toughest time can only make you a king!!! No ideal is born without 100 ideals. Understand the value of people near you !!
 
 <br>
 
