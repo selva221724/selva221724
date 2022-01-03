@@ -23,13 +23,13 @@
 
 The concept of ‘Time’ is a powerful inspiration to me because of two people, one who likes time and other who doesn’t like time to run out namely Stephen Hawking and Thomas Alva Edison. 
 
-- 🥷 I do have multiple names like AI/ML Engineer, Data Scientist and Python Developer.
+- 💻 I do have multiple names like AI/ML Engineer, Data Scientist and Python Developer.
 - 🧑🏼‍💻 Data Science & Artificial Intelligence is my core subject areas where I face them every single day in my career. 
-- 🧑‍🎓 Got a Masters from the United Kingdom in Robotics & Automation and One more Masters in Electronics and a Bachelors in Physics. 
+- 🎓 Got a Masters from the United Kingdom in Robotics & Automation and One more Masters in Electronics and a Bachelors in Physics. 
 - 🔕 Yes, I had many funs, errors, successes, failures with the different types of data, problems, solutions, Proof of concepts and developments.  
 - 🔭 Currently, Learning BlockChain core ideas and building smart contracts with Solidity. 
 - ⛓ I am a crypto & blockchain enthusiast who is trying to be an early participant in metaverse ideas and blockchain projects
-- 🦿 I do work with collaborative projects and self-learning stuffs.
+- 🦾 I do work with collaborative projects and self-learning stuffs.
 - ⚡ Fun fact: I am a noob cinematographer [YouTube](https://www.youtube.com/channel/UC1kjWTXAijb0koxCCJMIIFA) 
 - 📫 Mail me: [email](selva221724@gmail.com)
 
@@ -41,15 +41,29 @@ No worries, No buddy born with king abilities... the toughest time can only make
 
 
 
-### languages and tools I work with
+### Languages and tools I work with
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/aws/aws.png?raw=true"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/ethereum/ethereum.png?raw=true"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/keras/keras.png?raw=true"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/numpy/numpy.png?raw=true"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/opencv/opencv.png?raw=true"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/pycharm/pycharm.png?raw=true"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/scikit-learn/scikit-learn.png?raw=true"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/solidity/solidity.png?raw=true"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/sql/sql.png?raw=true"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/tensorflow/tensorflow.png?raw=true"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png?raw=true"></code>
+<img height="40" src="https://github.com/github/explore/blob/main/topics/unity/unity.png?raw=true"></code>
+
+
+<br>
+<br>
+
+<img align="left" alt="GIF" src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp" />
+
+If you like my work, Donate!! with `ERC20` or `BEP20` Tokens to this address below `0xCca3EC1A65249c3A29b206932123bE6419201A06`
+
