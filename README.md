@@ -1,43 +1,47 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br>
-Reach me Here
 <a href="https://twitter.com/selva221724">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/selva221724/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://medium.com/@selva221724">
+  <img align="right" width="100px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" />
 </a>
 <a href="https://open.spotify.com/show/5sszhretPLEsGrZmKJ9PwH">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UC1kjWTXAijb0koxCCJMIIFA">
+  <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+<a href="https://stackoverflow.com/users/10383650/tamil-selvan">
+  <img align="right" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" />
 </a>
 
-<br>
-<br>
-<br>
+### Hey there Tamil Selvan here!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on Crypto-related stuffs
-- 🌱 I’m currently learning BlockChain
-- 👯 I’m looking to collaborate on any BlockChain technology
-- ✍ Check out my [Articles](https://medium.com/@selva221724)
-- 📫 How to reach me: [email](selva221724@gmail.com) , [Twitter](https://twitter.com/selva221724) , [LinkedIn](https://twitter.com/selva221724)
+
+The concept of ‘Time’ is a powerful inspiration to me because of two people, one who likes time and other who doesn’t like time to run out namely Stephen Hawking and Thomas Alva Edison. 
+
+- 🥷 I do have multiple names like AI/ML Engineer, Data Scientist and Python Developer.
+- 🧑🏼‍💻 Data Science & Artificial Intelligence is my core subject areas where I face them every single day in my career. 
+- 🧑‍🎓 Got a Masters from the United Kingdom in Robotics & Automation and One more Masters in Electronics and a Bachelors in Physics. 
+- 🔕 Yes, I had many funs, errors, successes, failures with the different types of data, problems, solutions, Proof of concepts and developments.  
+- 🔭 Currently, Learning BlockChain core ideas and building smart contracts with Solidity. 
+- ⛓ I am a crypto & blockchain enthusiast who is trying to be an early participant in metaverse ideas and blockchain projects
+- 🦿 I do work with collaborative projects and self-learning stuffs.
 - ⚡ Fun fact: I am a noob cinematographer [YouTube](https://www.youtube.com/channel/UC1kjWTXAijb0koxCCJMIIFA) 
+- 📫 Mail me: [email](selva221724@gmail.com)
+
+No worries, No buddy born with king abilities... the toughest time can only make you a king!!! No ideal is born without 100 ideals. Understand the value of people near you !!
+
+<br>
+
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
-<br />
-
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
+### languages and tools I work with
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -49,4 +53,3 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
