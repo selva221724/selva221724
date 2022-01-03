@@ -22,7 +22,7 @@
 
 
 - 💻 I do have multiple names like AI/ML Engineer, Data Scientist and Python Developer.
-- 🧑🏼‍💻 Data Science & Artificial Intelligence is my core subject areas where I face them every single day in my career. 
+- 🧑🏼‍💻 Data Science & Artificial Intelligence is my core subject areas & I face them every single day in my career. 
 - 🎓 Got a Masters from the United Kingdom in Robotics & Automation and One more Masters in Electronics and a Bachelors in Physics. 
 - 🔕 Yes, I had many funs, errors, successes, failures with the different types of data, problems, solutions, Proof of concepts and developments.  
 - 🔭 Currently, Learning BlockChain core ideas and building smart contracts with Solidity. 
@@ -58,7 +58,6 @@ No worries, No buddy born with king abilities!! The toughest time can only make 
 <img height="40" src="https://github.com/github/explore/blob/main/topics/unity/unity.png?raw=true"></code>
 
 
-<br>
 <br>
 
 <img align="left" alt="GIF" src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp" />
