@@ -29,7 +29,7 @@
 - ⛓ I am a crypto & blockchain enthusiast who is trying to be an early participant in metaverse ideas and blockchain projects
 - 🦾 I do work with collaborative projects and self-learning stuffs.
 - ⚡ Fun fact: I am a noob cinematographer [YouTube](https://www.youtube.com/channel/UC1kjWTXAijb0koxCCJMIIFA) 
-- 📫 Mail me: [email](selva221724@gmail.com)
+- 📫 Mail me: selva221724@gmail.com
 
 No worries, No buddy born with king abilities!! The toughest time can only make you a king!!! No ideal is born without 100 ideals. Understand the value of people near you !!
 
