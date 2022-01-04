@@ -26,7 +26,8 @@
 - ⛓ I am a crypto & blockchain enthusiast who is trying to be an early participant in metaverse and blockchain applications
 - 🦾 I do work with collaborative projects and self-learning stuffs.
 - ⚡ Fun fact: I am a noob cinematographer [YouTube](https://www.youtube.com/channel/UC1kjWTXAijb0koxCCJMIIFA) 
-- 📫 Mail me: selva221724@gmail.com
+- 📫 Mail me: selva221724@gmail.com 
+
 
 
 <br>
@@ -60,3 +61,8 @@
 
 If you find my repos useful, Donate!! with `ERC20` or `BEP20` Tokens to this address below `0xCca3EC1A65249c3A29b206932123bE6419201A06`
 
+<br>
+<br>
+<br>
+
+![](https://komarev.com/ghpvc/?username=selva221724&color=green)
