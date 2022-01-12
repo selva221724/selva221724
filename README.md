@@ -59,8 +59,10 @@
 
 <img align="left" alt="GIF" src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp" />
 
-If you find my repos useful, Donate!! with `ERC20` or `BEP20` Tokens to this address below `0xCca3EC1A65249c3A29b206932123bE6419201A06`
 
+
+If you find my repos useful, Donate!! with `ERC20` or `BEP20` Tokens to this address below `0xCca3EC1A65249c3A29b206932123bE6419201A06`
+<img align="left" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Binance_Logo.svg/2048px-Binance_Logo.svg.png"  width="50" height="50" />
 <br>
 <br>
 <br>
