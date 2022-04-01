@@ -1,4 +1,3 @@
-
 <a href="https://twitter.com/selva221724">
   <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -15,8 +14,9 @@
   <img align="right" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" />
 </a>
 
-### Hey there Tamil Selvan here!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![](https://komarev.com/ghpvc/?username=selva221724&color=green)
 
+### Hey there Tamil Selvan here!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 💻 I do have multiple names like AI/ML Engineer, Data Scientist and Python Developer.
 - 🧑🏼‍💻 Data Science & Artificial Intelligence is my core subject areas & I face them every single day in my career. 
@@ -64,4 +64,8 @@ If you find my repos useful, Donate!! with `ERC20` or `BEP20` Tokens to this add
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=selva221724&color=green)
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selva221724&show_icons=true&include_all_commits&show_owner)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selva221724&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
