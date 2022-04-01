@@ -3,7 +3,7 @@
   <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/show/5sszhretPLEsGrZmKJ9PwH">
-  <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="right" width="80px" src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png" />
 </a>
 <a href="https://www.linkedin.com/in/selva221724/">
   <img align="right" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
