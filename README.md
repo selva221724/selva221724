@@ -63,9 +63,4 @@ If you find my repos useful, Donate!! with `ERC20` or `BEP20` Tokens to this add
 <br>
 <br>
 <br>
-
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selva221724&show_icons=true&include_all_commits&show_owner)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selva221724&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
