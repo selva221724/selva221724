@@ -16,7 +16,7 @@
 
 ![](https://komarev.com/ghpvc/?username=selva221724&color=green)
 
-### Hey there Tamil Selvan here!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there Tamil Selvan here!!
 
 - 💻 I do have multiple names like AI/ML Engineer, Data Scientist and Python Developer.
 - 🧑🏼‍💻 Data Science & Artificial Intelligence is my core subject areas & I face them every single day in my career. 
