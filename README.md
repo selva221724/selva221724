@@ -57,7 +57,7 @@
 
 <br>
 
-<img align="left" alt="GIF" src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp" />
+<img align="left"  width="100px" alt="GIF" src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZJZZK5B2ZNF25LYQHMUTBTOMLU.png" />
 
 If you find my repos useful, Donate!! with `ERC20` or `BEP20` Tokens to this address below `0xCca3EC1A65249c3A29b206932123bE6419201A06`
 <br>
