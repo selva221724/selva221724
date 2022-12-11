@@ -42,7 +42,6 @@
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <img height="40" src="https://github.com/github/explore/blob/main/topics/aws/aws.png?raw=true"></code>
 <img height="40" src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true"></code>
-<img height="40" src="https://github.com/github/explore/blob/main/topics/ethereum/ethereum.png?raw=true"></code>
 <img height="40" src="https://github.com/github/explore/blob/main/topics/keras/keras.png?raw=true"></code>
 <img height="40" src="https://github.com/github/explore/blob/main/topics/numpy/numpy.png?raw=true"></code>
 <img height="40" src="https://github.com/github/explore/blob/main/topics/opencv/opencv.png?raw=true"></code>
