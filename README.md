@@ -2,14 +2,34 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tamil%20Selvan&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20Data%20Scientist%20%C2%B7%20AI%20/%20GenAI%20/%20MLOps%20Engineer&descSize=20&descAlignY=58" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Lead+Data+Scientist+%40+Vanquis+Bank+%F0%9F%87%AC%F0%9F%87%A7;7%2B+Years+Building+Production+AI+Systems;GenAI+%C2%B7+LLMs+%C2%B7+Agentic+AI+%C2%B7+MLOps;UK+Global+Talent+Visa+Holder+%F0%9F%8F%86;AI-Native+Developer+%E2%80%94+Claude+Code+%26+Codex" alt="Typing SVG" /></a>
+</div>
+
+<table>
+<tr>
+<td width="26%" align="center" valign="middle">
+
+<img src="assets/ascii-face.svg" width="100%" alt="Tamil Selvan ASCII portrait"/>
+
+</td>
+<td width="74%" align="center" valign="middle">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Lead+Data+Scientist+%40+Vanquis+Bank+%F0%9F%87%AC%F0%9F%87%A7;7%2B+Years+Building+Production+AI+Systems;GenAI+%C2%B7+LLMs+%C2%B7+Agentic+AI+%C2%B7+MLOps;UK+Global+Talent+Visa+Holder+%F0%9F%8F%86;AI-Native+Developer+%E2%80%94+Claude+Code+%26+Codex" alt="Typing SVG" /></a>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/selva221724/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/10383650/tamil-selvan"><img src="https://img.shields.io/badge/Stack_Overflow-1.7k+-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 <a href="https://medium.com/@selva221724"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<br/>
 <a href="mailto:selva221724@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://myvisafit.com"><img src="https://img.shields.io/badge/myvisafit.com-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=selva221724&style=for-the-badge&color=2c5364" alt="Profile views"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 </div>
 
@@ -142,7 +162,11 @@ class TamilSelvan:
 
 ### 🐍 Watch my contributions get eaten
 
-<img src="https://raw.githubusercontent.com/selva221724/selva221724/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selva221724/selva221724/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/selva221724/selva221724/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/selva221724/selva221724/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</picture>
 
 *"From physics to robotics to production AI — always shipping."*
 
