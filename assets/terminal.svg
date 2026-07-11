@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 226" width="760" height="226">
+<rect x="0.5" y="0.5" width="759" height="225" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 10 a10 10 0 0 1 10-9.5 h739 a10 10 0 0 1 10 9.5 v22 h-759 z" fill="#161b22"/>
+<line x1="0.5" y1="32.5" x2="759.5" y2="32.5" stroke="#30363d"/>
+<circle cx="20" cy="17" r="5.5" fill="#ff5f56"/><circle cx="40" cy="17" r="5.5" fill="#ffbd2e"/><circle cx="60" cy="17" r="5.5" fill="#27c93f"/>
+<text x="380.0" y="21" text-anchor="middle" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:11px" fill="#8b949e">tamil — zsh — claude code</text>
+<text x="22" y="64" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#3fb950">tamil@manchester</text>
+<text x="147" y="64" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#8b949e"> ~ </text>
+<text x="171" y="64" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#D97757">$ </text>
+<text x="186" y="64" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#e6edf3">whoami</text>
+<text x="22" y="88" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#8b949e">Tamil Selvan — Lead Data Scientist · AI/GenAI/MLOps · 7+ yrs</text>
+<text x="22" y="112" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#3fb950">tamil@manchester</text>
+<text x="147" y="112" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#8b949e"> ~ </text>
+<text x="171" y="112" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#D97757">$ </text>
+<text x="186" y="112" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#e6edf3">cat visa.txt</text>
+<text x="22" y="136" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#8b949e">UK Global Talent — exceptional talent in digital technology</text>
+<text x="22" y="160" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#3fb950">tamil@manchester</text>
+<text x="147" y="160" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#8b949e"> ~ </text>
+<text x="171" y="160" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#D97757">$ </text>
+<text x="186" y="160" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#e6edf3">claude --dangerously-skip-permissions</text>
+<text x="22" y="184" xml:space="preserve" style="font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,monospace;font-size:13px" fill="#D97757">✳ shipping production AI at speed…</text>
+<rect x="292" y="173" width="8" height="15" fill="#D97757"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
+</svg>
